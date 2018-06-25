@@ -1,0 +1,9 @@
+To use the application.
+ 1) Install Yarn
+ 2) go to project directory in cmd and write "yarn start"
+ 3) Project will start on localhost:3000
+
+In this application you can add items to the list and delete the items from the list.
+
+All the function and code is explained in the project.
+  
